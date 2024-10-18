@@ -1,0 +1,19 @@
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.exe.config
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\bin\Debug\Ocp.pdb
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Ocp\obj\Debug\Ocp.pdb
+C:\Users\conra\Downloads\OCP (1)\Ocp\bin\Debug\Ocp.exe.config
+C:\Users\conra\Downloads\OCP (1)\Ocp\bin\Debug\Ocp.exe
+C:\Users\conra\Downloads\OCP (1)\Ocp\bin\Debug\Ocp.pdb
+C:\Users\conra\Downloads\OCP (1)\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\Users\conra\Downloads\OCP (1)\Ocp\obj\Debug\Ocp.exe
+C:\Users\conra\Downloads\OCP (1)\Ocp\obj\Debug\Ocp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\bin\Debug\Ocp.exe.config
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\bin\Debug\Ocp.exe
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\bin\Debug\Ocp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.exe
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.pdb
