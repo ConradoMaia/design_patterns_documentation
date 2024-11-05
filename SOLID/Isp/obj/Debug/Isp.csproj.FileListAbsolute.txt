@@ -1,0 +1,15 @@
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\bin\Debug\Isp.exe.config
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\bin\Debug\Isp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\bin\Debug\Isp.pdb
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\obj\Debug\Isp.csprojAssemblyReference.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\obj\Debug\Isp.exe
+D:\htdocs\design-patterns\design-patterns-cs\solid\Isp\obj\Debug\Isp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\bin\Debug\Isp.exe.config
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\bin\Debug\Isp.exe
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\bin\Debug\Isp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\obj\Debug\Isp.csproj.AssemblyReference.cache
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\obj\Debug\Isp.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\obj\Debug\Isp.exe
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Isp\obj\Debug\Isp.pdb
