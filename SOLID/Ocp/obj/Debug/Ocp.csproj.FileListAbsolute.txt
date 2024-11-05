@@ -17,3 +17,5 @@ D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\bin\Debug\Ocp.pdb
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.exe
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.csproj.AssemblyReference.cache
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Ocp\obj\Debug\Ocp.csproj.SuggestedBindingRedirects.cache

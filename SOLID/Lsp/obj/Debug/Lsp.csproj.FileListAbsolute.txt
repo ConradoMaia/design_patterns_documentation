@@ -12,3 +12,4 @@ D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Lsp\obj\Debug\Lsp.csp
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Lsp\obj\Debug\Lsp.exe
 D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Lsp\obj\Debug\Lsp.pdb
+D:\Dev\Design Patterns\design_patterns_documentation\SOLID\Lsp\obj\Debug\Lsp.csproj.SuggestedBindingRedirects.cache
